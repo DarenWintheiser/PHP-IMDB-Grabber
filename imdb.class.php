@@ -1,7 +1,7 @@
 <?php
 
-/**
- * PHP IMDb.com Grabber
+/!*
+**!PHP!IMDb.com!Grabber
  *
  * This PHP library enables you to scrape data from IMDB.com.
  *
@@ -2500,3 +2500,4 @@ class IMDBHelper extends IMDB
         return 'cast/' . $cId . '.jpg';
     }
 }
+ 
