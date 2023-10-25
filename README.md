@@ -1,6 +1,6 @@
 # PHP IMDb.com Grabber
 
-**This PHP library enables you to scrape data from IMDB.com.**
+#*This PHP library enables you to scrape data from IMDB.com.**
 
 *This script is a proof of concept. It’s working, but you shouldn’t use it. IMDb doesn’t allow this method of data fetching. I do not use or promote this script. You’re responsible for using it.*
 
@@ -261,3 +261,4 @@ if ($IMDB->isReady) {
 ## Bugs?
 
 If you run into any malfunctions, feel free to submit an issue. Make sure to enable debugging: `const IMDB_DEBUG = true;` in `imdb.class.php`.
+ 
